@@ -17,7 +17,7 @@ This repo contains **my** solutions to the problems in the competitive programmi
 
 | Website | Account | Answers |
 |:-------:|:-------:|:-------:|
-| HackerRank | [Yokozuna59](https://www.hackerrank.com/Yokozuna59) | [Link](https://github.com/Yokozuna59/competitive-programming/hackerrank) |
+| HackerRank | [Yokozuna59](https://www.hackerrank.com/Yokozuna59) | [Link](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank) |
 
 <!-- | CodeWars | [Yokozuna59](https://www.codewars.com/users/Yokozuna59) | [Link](https://github.com/Yokozuna59/competitive-programming/codewars) | -->
 <!-- | CodeForces | [Yokozuna59](https://codeforces.com/profile/Yokozuna59) | [Link](https://github.com/Yokozuna59/competitive-programming/codeforces) | -->
