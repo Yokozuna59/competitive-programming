@@ -1,4 +1,4 @@
-# C
+# Bash
 
 ## Badges
 
@@ -18,7 +18,7 @@ I don't have any work experience with Bash yet.
 
 | Difficulty | Problem | Success Rate | My Solution |
 |:----------:|:-------:|:------------:|:-----------:|
-| Easy | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) | 98.19% | [Let's Echo](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/shell/bash-tutorials-lets-echo.sh) |
+| Easy | [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo) | 98.19% | [Let's Echo](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/bash/bash-tutorials-lets-echo.sh) |
 | Easy | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping) | 96.00% | [Looping and Skipping](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/bash/bash-tutorials---looping-and-skipping.sh) |
 | Easy | [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo) | 98.41% | [A Personalized Echo](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/bash/bash-tutorials---a-personalized-echo.sh) |
 | Easy | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers) | 99.46% | [Looping with Numbers](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/bash/bash-tutorials---looping-with-numbers.sh) |
