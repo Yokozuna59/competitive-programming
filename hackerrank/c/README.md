@@ -18,8 +18,8 @@ I don't have any work experience with C yet.
 
 | Difficulty | Problem | Success Rate | My Solution |
 |:----------:|:-------:|:----------:|:-----------:|
-| Easy | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c) | 87.09% | ["Hello World!" in C](https://github.com/Yokozuna59/competitive-programming/hackerrank/c/hello_world_in_c.c)
-| Easy | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters) | 94.64% | [Playing With Characters](https://github.com/Yokozuna59/competitive-programming/hackerrank/c/playing_with_characters.c) |
+| Easy | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c) | 87.09% | ["Hello World!" in C](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/c/hello_world_in_c.c)
+| Easy | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters) | 94.64% | [Playing With Characters](https://github.com/Yokozuna59/competitive-programming/tree/master/hackerrank/c/playing_with_characters.c) |
 | Easy | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c) | 94.64% | [Sum and Difference of Two Numbers] |
 | Easy | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c) | 96.16% | [Functions in C] |
 | Easy | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c) | 96.61% | [Pointers in C] |
